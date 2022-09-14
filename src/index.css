@@ -142,11 +142,24 @@ code {
 }
 
 .NavBar {
-  height: 400px;
+  padding: 20px;
+  height: auto;
   background-image: url(./img/bg/nav-bg.jpeg);
   background-size: cover;
 }
 
 #root {
   background-color: black;
+}
+
+.Formulir {
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+.Dua {
+  background-image: url(./img/bg/clapper.jpg);
+  background-size: cover;
+  background-position: center;
 }
