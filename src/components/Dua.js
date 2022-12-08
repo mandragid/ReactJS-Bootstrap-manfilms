@@ -1,3 +1,5 @@
+import "../components/pages.css";
+
 function Dua() {
   return (
     <div class="mt-0 p-5 text-white rounded">
